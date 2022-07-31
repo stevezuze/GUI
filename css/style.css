@@ -1,0 +1,38 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.accu{
+    display: flex;
+    justify-content: space-between;
+    font-size: 50px;
+}
+.maths{
+    text-align: center;
+    font-size: 50px;
+}
+.options{
+    display: flex;
+    justify-content: space-around;
+
+}
+.type{
+    border-style: solid;
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+.numberofq{
+    border-style: solid;
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+input{
+    height:30px;
+    width: 30px;
+}
+label{
+    
+    font-size: 50px;
+}
