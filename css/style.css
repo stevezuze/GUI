@@ -1,6 +1,7 @@
 body{
     margin-left: 15%;
     margin-right: 15%;
+  x
 }
 .accu{
     display: flex;
@@ -27,12 +28,28 @@ body{
     width: 400px;
     height: 400px;
     margin-top: 50px;
+    justify-content: space-around;
+}
+.cont2{
+    padding-top: 80px;
 }
 input{
     height:30px;
     width: 30px;
+  
 }
 label{
     
     font-size: 50px;
+    padding: 25px;
+}
+.btnc{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    margin-top: 70px;
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
 }
